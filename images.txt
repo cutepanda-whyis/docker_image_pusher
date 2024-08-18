@@ -7,3 +7,4 @@ xhofe/alist:latest
 justsong/one-api
 yidadaa/chatgpt-next-web
 ghcr.io/open-webui/open-webui:main
+searxng/searxng:latest
