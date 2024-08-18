@@ -6,3 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 justsong/one-api
 yidadaa/chatgpt-next-web
+redis:6-alpine
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
