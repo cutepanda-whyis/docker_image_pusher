@@ -4,7 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-justsong/one-api
+--platform=linux/arm64 justsong/one-api:arm64_v1
 yidadaa/chatgpt-next-web
 ghcr.io/open-webui/open-webui:main
 searxng/searxng:latest
