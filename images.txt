@@ -8,3 +8,4 @@ xhofe/alist:latest
 yidadaa/chatgpt-next-web
 ghcr.io/open-webui/open-webui:main
 searxng/searxng:latest
+--platform=linux/arm64 xhofe/alist:latest
