@@ -10,3 +10,4 @@ ghcr.io/open-webui/open-webui:main
 searxng/searxng:latest
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 mzz2017/v2raya
+--platform=linux/arm64 open-webui/open-webui:main
