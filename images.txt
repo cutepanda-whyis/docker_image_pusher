@@ -11,3 +11,4 @@ searxng/searxng:latest
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 mzz2017/v2raya
 --platform=linux/arm64 langgenius/dify-web:latest
+--platform=linux/arm64 langgenius/dify-web:deploy-dev
