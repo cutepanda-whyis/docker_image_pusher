@@ -13,3 +13,4 @@ searxng/searxng:latest
 --platform=linux/arm64 langgenius/dify-web:latest
 --platform=linux/arm64 langgenius/dify-web:deploy-dev
 --platform=linux/arm/v7 cloudreve/cloudreve:latest
+--platform=linux/arm/v7 nextcloud:latest
