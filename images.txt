@@ -18,4 +18,5 @@ searxng/searxng:latest
 --platform=linux/arm/v7 wangbinxingkong/fast:latest
 --platform=linux/arm64 whyour/qinglong:develop
 ghcr.io/heyputer/puter
+idootop/mi-gpt:latest
 
