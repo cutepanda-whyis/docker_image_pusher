@@ -19,5 +19,4 @@ searxng/searxng:latest
 --platform=linux/arm64 whyour/qinglong:develop
 ghcr.io/heyputer/puter
 idootop/mi-gpt:latest
-mysql
 mysql:5.7.10
