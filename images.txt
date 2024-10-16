@@ -20,4 +20,4 @@ searxng/searxng:latest
 ghcr.io/heyputer/puter
 idootop/mi-gpt:latest
 mysql
-
+mysql:5.7.10
