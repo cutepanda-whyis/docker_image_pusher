@@ -20,3 +20,4 @@ searxng/searxng:latest
 ghcr.io/heyputer/puter
 idootop/mi-gpt:latest
 mysql
+wbsu2003/daedalos:latest
