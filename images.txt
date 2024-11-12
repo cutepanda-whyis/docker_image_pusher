@@ -3,6 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
+langgenius/dify-web:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 justsong/one-api
 yidadaa/chatgpt-next-web
@@ -10,7 +11,6 @@ ghcr.io/open-webui/open-webui:main
 searxng/searxng:latest
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 mzz2017/v2raya
---platform=linux/arm64 langgenius/dify-web:latest
 --platform=linux/arm64 langgenius/dify-web:deploy-dev
 --platform=linux/arm/v7 cloudreve/cloudreve:latest
 --platform=linux/arm/v7 nextcloud:latest
