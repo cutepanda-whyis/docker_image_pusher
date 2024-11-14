@@ -1,4 +1,6 @@
-justsong/one-api:0.6.8
+mongo:4.4.29
+pgvector/pgvector:0.7.0
+justsong/one-api
 mysql:5.7.44
 #nginx
 #支持私库
