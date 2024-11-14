@@ -1,3 +1,4 @@
+mysql:8.4.3
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/
@@ -20,7 +21,6 @@ searxng/searxng:latest
 --platform=linux/arm64 whyour/qinglong:develop
 ghcr.io/heyputer/puter
 idootop/mi-gpt:latest
-mysql
 wbsu2003/daedalos:latest
 lmk123/migpt-server
 bestoray/phtunnel:latest
