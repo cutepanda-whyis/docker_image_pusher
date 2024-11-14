@@ -1,5 +1,5 @@
-mongo:4.4.29
-pgvector/pgvector:0.7.0
+mongo:4.4.3
+pgvector/pgvector:0.7.0-pg16
 justsong/one-api
 mysql:5.7.44
 #nginx
