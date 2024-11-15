@@ -1,3 +1,6 @@
+lobehub/lobe-chat
+
+#本地部署dify所需的docker镜像
 langgenius/dify-api:0.11.1
 langgenius/dify-api:0.11.1
 langgenius/dify-web:0.11.1
