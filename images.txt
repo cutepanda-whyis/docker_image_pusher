@@ -1,4 +1,6 @@
-lobehub/lobe-chat
+#lobehub/lobe-chat
+searxng/searxng:latest
+valkey/valkey:8-alpine
 
 #本地部署dify所需的docker镜像
 langgenius/dify-api:0.11.1
