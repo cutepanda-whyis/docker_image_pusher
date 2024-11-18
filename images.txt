@@ -1,3 +1,7 @@
+m1k1o/neko:chromium
+m1k1o/neko:microsoft-edge
+m1k1o/neko:opera
+
 library/caddy:2-alpine
 #lobehub/lobe-chat
 searxng/searxng:latest
