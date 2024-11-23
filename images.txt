@@ -1,3 +1,13 @@
+vinlic/kimi-free-api:latest
+vinlic/hailuo-free-api:latest
+vinlic/metaso-free-api:latest
+vinlic/glm-free-api:latest
+vinlic/deepseek-free-api:latest
+vinlic/qwen-free-api:latest
+vinlic/spark-free-api:latest
+vinlic/step-free-api:latest
+vinlic/emohaa-free-api:latest
+
 jlesage/firefox:latest
 
 m1k1o/neko:chromium
