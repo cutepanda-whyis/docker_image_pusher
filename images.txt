@@ -1,3 +1,5 @@
+1panel/maxkb:v1.7.2
+
 vinlic/kimi-free-api:latest
 vinlic/hailuo-free-api:latest
 vinlic/metaso-free-api:latest
