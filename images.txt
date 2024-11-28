@@ -1,3 +1,4 @@
+linkease/ddnsto:latest
 1panel/maxkb:v1.7.2
 
 vinlic/kimi-free-api:latest
