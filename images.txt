@@ -1,4 +1,5 @@
-linuxserver/wps-office
+linuxserver/wps-office:chinese
+#linuxserver/wps-office
 
 #填鸭问卷
 #mysql:8.0.36
