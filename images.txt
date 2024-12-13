@@ -1,52 +1,55 @@
-surveyking/surveyking
+mysql:8.0.36
+tduckcloud/tduck-platform
 
-langgenius/dify-api:0.8.3
-langgenius/dify-web:0.8.3
-langgenius/dify-sandbox:0.2.9
-langgenius/qdrant:v1.7.3
-postgres:15-alpine
-pgvector/pgvector:pg16
-tensorchord/pgvecto-rs:pg16-v0.3.0
-redis:6-alpine
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-semitechnologies/weaviate:1.19.0
-ghcr.io/chroma-core/chroma:0.5.1
-container-registry.oracle.com/database/free:latest
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.1
-opensearchproject/opensearch:latest
-opensearchproject/opensearch-dashboards:latest
-myscale/myscaledb:1.6.4
-docker.elastic.co/elasticsearch/elasticsearch:8.15.1
-docker.elastic.co/kibana/kibana:8.15.1
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+#surveyking/surveyking
 
-linkease/ddnsto:latest
-1panel/maxkb:v1.7.2
+#langgenius/dify-api:0.8.3
+#langgenius/dify-web:0.8.3
+#langgenius/dify-sandbox:0.2.9
+#langgenius/qdrant:v1.7.3
+#postgres:15-alpine
+#pgvector/pgvector:pg16
+#tensorchord/pgvecto-rs:pg16-v0.3.0
+#redis:6-alpine
+#ubuntu/squid:latest
+#certbot/certbot
+#nginx:latest
+#semitechnologies/weaviate:1.19.0
+#ghcr.io/chroma-core/chroma:0.5.1
+#container-registry.oracle.com/database/free:latest
+#quay.io/coreos/etcd:v3.5.5
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#milvusdb/milvus:v2.3.1
+#opensearchproject/opensearch:latest
+#opensearchproject/opensearch-dashboards:latest
+#myscale/myscaledb:1.6.4
+#docker.elastic.co/elasticsearch/elasticsearch:8.15.1
+#docker.elastic.co/kibana/kibana:8.15.1
+#downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
-vinlic/kimi-free-api:latest
-vinlic/hailuo-free-api:latest
-vinlic/metaso-free-api:latest
-vinlic/glm-free-api:latest
-vinlic/deepseek-free-api:latest
-vinlic/qwen-free-api:latest
-vinlic/spark-free-api:latest
-vinlic/step-free-api:latest
-vinlic/emohaa-free-api:latest
+#linkease/ddnsto:latest
+#1panel/maxkb:v1.7.2
 
-jlesage/firefox:latest
+#vinlic/kimi-free-api:latest
+#vinlic/hailuo-free-api:latest
+#vinlic/metaso-free-api:latest
+#vinlic/glm-free-api:latest
+#vinlic/deepseek-free-api:latest
+#vinlic/qwen-free-api:latest
+#vinlic/spark-free-api:latest
+#vinlic/step-free-api:latest
+#vinlic/emohaa-free-api:latest
 
-m1k1o/neko:chromium
-m1k1o/neko:microsoft-edge
-m1k1o/neko:opera
+#jlesage/firefox:latest
 
-library/caddy:2-alpine
+#m1k1o/neko:chromium
+#m1k1o/neko:microsoft-edge
+#m1k1o/neko:opera
+
+#library/caddy:2-alpine
 #lobehub/lobe-chat
-searxng/searxng:latest
-valkey/valkey:8-alpine
+#searxng/searxng:latest
+#valkey/valkey:8-alpine
 
 #本地部署dify所需的docker镜像
 #langgenius/dify-api:0.11.1
@@ -77,30 +80,30 @@ valkey/valkey:8-alpine
 
 mongo:4.4.3
 #pgvector/pgvector:0.7.0-pg16
-justsong/one-api
-mysql:5.7.44
+#justsong/one-api
+#mysql:5.7.44
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/
 #kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#xhofe/alist:latest
 #支持指定架构
-langgenius/dify-web:latest
---platform=linux/arm64 xiaoyaliu/alist
-yidadaa/chatgpt-next-web
-ghcr.io/open-webui/open-webui:main
-searxng/searxng:latest
---platform=linux/arm64 xhofe/alist:latest
---platform=linux/arm64 mzz2017/v2raya
---platform=linux/arm64 langgenius/dify-web:deploy-dev
---platform=linux/arm/v7 cloudreve/cloudreve:latest
---platform=linux/arm/v7 nextcloud:latest
---platform=linux/arm/v7 filebrowser/filebrowser:latest
---platform=linux/arm/v7 wangbinxingkong/fast:latest
---platform=linux/arm64 whyour/qinglong:develop
-ghcr.io/heyputer/puter
-idootop/mi-gpt:latest
-wbsu2003/daedalos:latest
-lmk123/migpt-server
-bestoray/phtunnel:latest
-codercom/code-server:latest
+#langgenius/dify-web:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+#yidadaa/chatgpt-next-web
+#ghcr.io/open-webui/open-webui:main
+#searxng/searxng:latest
+#--platform=linux/arm64 xhofe/alist:latest
+#--platform=linux/arm64 mzz2017/v2raya
+#--platform=linux/arm64 langgenius/dify-web:deploy-dev
+#--platform=linux/arm/v7 cloudreve/cloudreve:latest
+#--platform=linux/arm/v7 nextcloud:latest
+#--platform=linux/arm/v7 filebrowser/filebrowser:latest
+#--platform=linux/arm/v7 wangbinxingkong/fast:latest
+#--platform=linux/arm64 whyour/qinglong:develop
+#ghcr.io/heyputer/puter
+#idootop/mi-gpt:latest
+#wbsu2003/daedalos:latest
+#lmk123/migpt-server
+#bestoray/phtunnel:latest
+#codercom/code-server:latest
