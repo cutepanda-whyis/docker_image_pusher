@@ -1,8 +1,13 @@
-mysql:8.0.36
-tduckcloud/tduck-platform
+linuxserver/wps-office
 
+#填鸭问卷
+#mysql:8.0.36
+#tduckcloud/tduck-platform
+
+#卷王
 #surveyking/surveyking
 
+#新版Dify
 #langgenius/dify-api:0.8.3
 #langgenius/dify-web:0.8.3
 #langgenius/dify-sandbox:0.2.9
@@ -27,9 +32,11 @@ tduckcloud/tduck-platform
 #docker.elastic.co/kibana/kibana:8.15.1
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
+#内网穿透路由
 #linkease/ddnsto:latest
 #1panel/maxkb:v1.7.2
 
+#web浏览器
 #vinlic/kimi-free-api:latest
 #vinlic/hailuo-free-api:latest
 #vinlic/metaso-free-api:latest
