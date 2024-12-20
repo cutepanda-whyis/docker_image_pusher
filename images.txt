@@ -1,4 +1,6 @@
-linuxserver/wps-office:chinese
+homeassistant/home-assistant:latest
+
+#linuxserver/wps-office:chinese
 #linuxserver/wps-office
 
 #填鸭问卷
