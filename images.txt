@@ -1,4 +1,6 @@
-homeassistant/home-assistant:2024.12
+#HA满足米家官方插件的版本
+homeassistant/home-assistant:stable
+#homeassistant/home-assistant:2024.12
 #homeassistant/home-assistant:latest
 
 #linuxserver/wps-office:chinese
