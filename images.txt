@@ -1,5 +1,7 @@
+sapse/abap-cloud-developer-trial:ABAPTRIAL_2022_SP01
+
 #HA满足米家官方插件的版本
-homeassistant/home-assistant:stable
+#homeassistant/home-assistant:stable
 #homeassistant/home-assistant:2024.12
 #homeassistant/home-assistant:latest
 
