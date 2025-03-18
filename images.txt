@@ -1,4 +1,6 @@
-tangramor/slidev:latest
+#tangramor/slidev:latest
+
+ghcr.io/open-webui/open-webui:main
 
 #sapse/abap-cloud-developer-trial:ABAPTRIAL_2022_SP01
 
@@ -47,15 +49,15 @@ tangramor/slidev:latest
 #1panel/maxkb:v1.7.2
 
 #web浏览器
-#vinlic/kimi-free-api:latest
-#vinlic/hailuo-free-api:latest
-#vinlic/metaso-free-api:latest
-#vinlic/glm-free-api:latest
-#vinlic/deepseek-free-api:latest
-#vinlic/qwen-free-api:latest
-#vinlic/spark-free-api:latest
-#vinlic/step-free-api:latest
-#vinlic/emohaa-free-api:latest
+vinlic/kimi-free-api:latest
+vinlic/hailuo-free-api:latest
+vinlic/metaso-free-api:latest
+vinlic/glm-free-api:latest
+vinlic/deepseek-free-api:latest
+vinlic/qwen-free-api:latest
+vinlic/spark-free-api:latest
+vinlic/step-free-api:latest
+vinlic/emohaa-free-api:latest
 
 #jlesage/firefox:latest
 
@@ -108,7 +110,7 @@ mongo:4.4.3
 #langgenius/dify-web:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #yidadaa/chatgpt-next-web
-#ghcr.io/open-webui/open-webui:main
+
 #searxng/searxng:latest
 #--platform=linux/arm64 xhofe/alist:latest
 #--platform=linux/arm64 mzz2017/v2raya
