@@ -1,6 +1,10 @@
+valkey/valkey:8-alpine
+library/caddy:2-alpine
+searxng/searxng:latest
+
 #tangramor/slidev:latest
 
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
 
 #sapse/abap-cloud-developer-trial:ABAPTRIAL_2022_SP01
 
@@ -49,15 +53,15 @@ ghcr.io/open-webui/open-webui:main
 #1panel/maxkb:v1.7.2
 
 #web浏览器
-vinlic/kimi-free-api:latest
-vinlic/hailuo-free-api:latest
-vinlic/metaso-free-api:latest
-vinlic/glm-free-api:latest
-vinlic/deepseek-free-api:latest
-vinlic/qwen-free-api:latest
-vinlic/spark-free-api:latest
-vinlic/step-free-api:latest
-vinlic/emohaa-free-api:latest
+#vinlic/kimi-free-api:latest
+#vinlic/hailuo-free-api:latest
+#vinlic/metaso-free-api:latest
+#vinlic/glm-free-api:latest
+#vinlic/deepseek-free-api:latest
+#vinlic/qwen-free-api:latest
+#vinlic/spark-free-api:latest
+#vinlic/step-free-api:latest
+#vinlic/emohaa-free-api:latest
 
 #jlesage/firefox:latest
 
@@ -67,7 +71,6 @@ vinlic/emohaa-free-api:latest
 
 #library/caddy:2-alpine
 #lobehub/lobe-chat
-#searxng/searxng:latest
 #valkey/valkey:8-alpine
 
 #本地部署dify所需的docker镜像
