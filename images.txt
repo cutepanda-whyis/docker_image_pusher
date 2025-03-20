@@ -1,4 +1,4 @@
-jellyfin/jellyfin:latest
+#jellyfin/jellyfin:latest
 jellyfin/jellyfin:10
 
 #valkey/valkey:8-alpine
