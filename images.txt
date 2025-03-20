@@ -1,6 +1,8 @@
-valkey/valkey:8-alpine
-library/caddy:2-alpine
-searxng/searxng:latest
+jellyfin/jellyfin:latest
+
+#valkey/valkey:8-alpine
+#library/caddy:2-alpine
+#searxng/searxng:latest
 
 #tangramor/slidev:latest
 
