@@ -1,4 +1,4 @@
-#jellyfin/jellyfin:latest
+jellyfin/jellyfin:latest
 #jellyfin/jellyfin:10
 
 #valkey/valkey:8-alpine
@@ -118,7 +118,7 @@ mongo:4.4.3
 #yidadaa/chatgpt-next-web
 
 	
-jellyfin/jellyfin:10.10
+#jellyfin/jellyfin:10.10
 
 #searxng/searxng:latest
 #--platform=linux/arm64 xhofe/alist:latest
