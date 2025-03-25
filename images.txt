@@ -1,4 +1,9 @@
-b3log/siyuan
+wiznote/wizserver
+neosmemo/memos:latest
+joplin/server:latest
+postgres:13
+
+#b3log/siyuan
 
 #jellyfin/jellyfin:latest
 #jellyfin/jellyfin:10
