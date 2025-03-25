@@ -1,4 +1,6 @@
-jellyfin/jellyfin:latest
+b3log/siyuan
+
+#jellyfin/jellyfin:latest
 #jellyfin/jellyfin:10
 
 #valkey/valkey:8-alpine
@@ -103,7 +105,7 @@ jellyfin/jellyfin:latest
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
-mongo:4.4.3
+#mongo:4.4.3
 #pgvector/pgvector:0.7.0-pg16
 #justsong/one-api
 #mysql:5.7.44
