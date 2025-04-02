@@ -1,7 +1,10 @@
-wiznote/wizserver
-neosmemo/memos:latest
-joplin/server:latest
-postgres:13
+yisier1/nps
+yisier1/npc
+
+#wiznote/wizserver
+#neosmemo/memos:latest
+#joplin/server:latest
+#postgres:13
 
 #b3log/siyuan
 
