@@ -1,5 +1,7 @@
+phpmyadmin:5.2.2
+
 #数据库
-bytebase/bytebase:3.5.0
+#bytebase/bytebase:3.5.0
 
 #NPS代理搭建
 #yisier1/nps
