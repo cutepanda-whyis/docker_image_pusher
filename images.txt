@@ -1,13 +1,18 @@
-yisier1/nps
-yisier1/npc
+#数据库
+bytebase/bytebase:3.5.0
 
+#NPS代理搭建
+#yisier1/nps
+#yisier1/npc
+
+#私有笔记服务
 #wiznote/wizserver
 #neosmemo/memos:latest
 #joplin/server:latest
 #postgres:13
-
 #b3log/siyuan
 
+#家庭影音
 #jellyfin/jellyfin:latest
 #jellyfin/jellyfin:10
 
