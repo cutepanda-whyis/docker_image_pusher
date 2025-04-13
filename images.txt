@@ -1,4 +1,6 @@
-phpmyadmin:5.2.2
+mzz2017/v2raya
+
+#phpmyadmin:5.2.2
 
 #数据库
 #bytebase/bytebase:3.5.0
