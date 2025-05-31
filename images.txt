@@ -1,4 +1,6 @@
-mikolatero/vlmcsd
+budtmo/docker-android:emulator_13.0
+
+#mikolatero/vlmcsd
 
 #probezy/cpolar
 
