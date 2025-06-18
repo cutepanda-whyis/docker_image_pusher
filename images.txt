@@ -1,4 +1,6 @@
-budtmo/docker-android:emulator_13.0
+homeassistant/home-assistant:2025.6
+
+#budtmo/docker-android:emulator_13.0
 
 #mikolatero/vlmcsd
 
