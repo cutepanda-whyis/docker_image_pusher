@@ -1,4 +1,8 @@
-kasmweb/chromium:1.17.0-rolling-weekly
+node:18-alpine AS ui-builder
+golang:1.24-alpine AS go-builder
+scratch
+
+#kasmweb/chromium:1.17.0-rolling-weekly
 #kasmweb/fedora-40-desktop:1.17.0-rolling-weekly
 
 #ghcr.io/metatool-ai/metamcp:latest
