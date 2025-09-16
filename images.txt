@@ -1,5 +1,7 @@
-node:18-alpine
-golang:1.24-alpine
+matrixseven/file-transfer-go:latest
+
+#node:18-alpine
+#golang:1.24-alpine
 
 #kasmweb/chromium:1.17.0-rolling-weekly
 #kasmweb/fedora-40-desktop:1.17.0-rolling-weekly
