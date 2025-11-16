@@ -1,13 +1,15 @@
-redis:5
-quay.io/minio/minio
-localstack/localstack
-prom/prometheus:latest
-gcr.io/cadvisor/cadvisor:latest
-fleetdm/docker-idp:latest
-rnwood/smtp4dev:v3
-axllent/mailpit:latest
-mailhog/mailhog:latest
-mysql:8.0.36
+homeassistant/home-assistant:latest
+
+#redis:5
+#quay.io/minio/minio
+#localstack/localstack
+#prom/prometheus:latest
+#gcr.io/cadvisor/cadvisor:latest
+#fleetdm/docker-idp:latest
+#rnwood/smtp4dev:v3
+#axllent/mailpit:latest
+#mailhog/mailhog:latest
+#mysql:8.0.36
 
 #matrixseven/file-transfer-go:latest
 
