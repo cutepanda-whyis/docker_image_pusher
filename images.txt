@@ -1,4 +1,6 @@
-cloudflare/cloudflared:latest
+ghcr.io/suyiiyii/autoglm-gui:main
+
+#cloudflare/cloudflared:latest
 
 #homeassistant/home-assistant:latest
 
