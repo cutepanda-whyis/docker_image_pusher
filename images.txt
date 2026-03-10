@@ -1,4 +1,7 @@
-ionewu/owjdxb
+germannewsmaker/myspeed:latest
+openspeedtest/latest:latest
+
+#ionewu/owjdxb
 
 #ghcr.io/suyiiyii/autoglm-gui:main
 
