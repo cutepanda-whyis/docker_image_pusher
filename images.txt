@@ -1,5 +1,7 @@
-germannewsmaker/myspeed:latest
-openspeedtest/latest:latest
+sigoden/dufs:latest
+
+#germannewsmaker/myspeed:latest
+#openspeedtest/latest:latest
 
 #ionewu/owjdxb
 
