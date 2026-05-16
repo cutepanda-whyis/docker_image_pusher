@@ -1,4 +1,6 @@
-sigoden/dufs:latest
+justlikemaki/aiclient-2-api
+
+#sigoden/dufs:latest
 
 #germannewsmaker/myspeed:latest
 #openspeedtest/latest:latest
