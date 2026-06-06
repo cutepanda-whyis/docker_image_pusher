@@ -1,4 +1,4 @@
-justlikemaki/aiclient-2-api
+#justlikemaki/aiclient-2-api
 
 #sigoden/dufs:latest
 
@@ -73,7 +73,7 @@ justlikemaki/aiclient-2-api
 
 #tangramor/slidev:latest
 
-#ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:latest
 
 #sapse/abap-cloud-developer-trial:ABAPTRIAL_2022_SP01
 
